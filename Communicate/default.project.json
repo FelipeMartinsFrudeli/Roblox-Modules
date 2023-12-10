@@ -1,0 +1,27 @@
+{
+  "name": "Communicate",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Shared_Communicate": {
+        "$path": "src/ReplicatedStorage"
+      }
+    },
+
+    "ServerScriptService": {
+      "Server_Communicate": {
+        "$path": "src/ServerScriptService"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+
+        "Client_Communicate": {
+          "$path": "src/StarterPlayerScripts"
+        }
+      }
+    }
+  }
+}
